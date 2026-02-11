@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+Grafos | Se menciona explícitamente el análisis de comunidades y grados de separación, entonces tenemos que identificar caminos indirectos y relaciones de segundo o tercer nivel.
