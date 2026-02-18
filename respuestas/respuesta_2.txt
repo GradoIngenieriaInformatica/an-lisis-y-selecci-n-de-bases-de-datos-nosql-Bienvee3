@@ -1,1 +1,1 @@
-Clave–Valor |  Ideal para acceso directo y rápido mediante una clave única. Tiene una latencia extremadamente baja O(1) y es perfecto para datos simples que no requieren relaciones.
+Documental |  Se elige por su flexibilidad estructural, permitiendo que los datos cacheados tengan atributos distintos y facilitando consultas por múltiples campos, no solo por la clave principal.
