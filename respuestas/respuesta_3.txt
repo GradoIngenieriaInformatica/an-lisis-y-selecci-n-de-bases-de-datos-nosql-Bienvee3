@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+Columnar | Diseñada para consultas analíticas agregadas con volúmenes masivos de datos históricos. Optimiza la lectura de las columnas específicas para detectar patrones y tendencias globales.

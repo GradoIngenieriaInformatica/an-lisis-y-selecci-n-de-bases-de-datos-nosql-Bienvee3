@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+Documental |  Se elige por su flexibilidad estructural, permitiendo que los datos cacheados tengan atributos distintos y facilitando consultas por múltiples campos, no solo por la clave principal.
